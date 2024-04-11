@@ -22,12 +22,8 @@
 Created a dashboard that uses the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities that are searched for by user. Uses `localStorage` to store any cities that have been searched for prior and allows user to call them up quickly.  
 
 
-**Live application deployed at: **  
-
-The following image demonstrates the application functionality:
-
-<img src="./screenshot.PNG">  
+**Live application deployed at: https://ayotheman12.github.io/weather-universe/ 
 
 
 
-https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/
+<
